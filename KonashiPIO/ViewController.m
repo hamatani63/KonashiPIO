@@ -3,7 +3,9 @@
 //  KonashiPIO
 //
 //  Created by 浜谷 光吉 on 2015/04/19.
-//  Copyright (c) 2015年 LuckyLightning. All rights reserved.
+//  Copyright (c) 2015 Mitsuyoshi Hamatani
+//  Released under the MIT license
+//  http://opensource.org/licenses/mit-license.php
 //
 
 #import "ViewController.h"
